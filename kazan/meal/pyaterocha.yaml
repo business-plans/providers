@@ -1,0 +1,33 @@
+---
+kind: Provider
+version: v1alpha
+data:
+  Пятерочка:
+    InputMaterialVariant:
+      Перец болгарский красный:
+        VAT: 20
+        currency: RUB
+        price: 240.0
+        requiredToStart: true
+        substanceTags:
+        - перец
+        - красный
+        - болгарский
+        volume: 1.0
+      Перец халопеньо:
+        VAT: 20
+        currency: RUB
+        price: 250.0
+        requiredToStart: true
+        substanceTags:
+        - перец
+        - халопеньо
+        volume: 1.0
+    currency: RUB
+    city: Казань
+    address: Восстания, 41
+    tags:
+    - продукты
+    - пятерочка
+    workFrom: 8
+    workTo: 17

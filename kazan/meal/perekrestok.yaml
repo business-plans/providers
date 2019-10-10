@@ -1,0 +1,13 @@
+---
+kind: Provider
+version: v1alpha
+data:
+  Перекресток:
+    currency: RUB
+    city: Казань
+    address: Московская, 15
+    tags:
+    - продукты
+    - перекресток
+    workFrom: 8
+    workTo: 17
