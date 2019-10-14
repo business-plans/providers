@@ -8,7 +8,7 @@ data:
         VAT: 20
         currency: RUB
         price: 250.0
-        substanceTags:
+        tags:
         - перец
         - красный
         - болгарский
@@ -21,7 +21,7 @@ data:
         packageDescription: целофановый пакет
         packagePrice: 1.0
         price: 150.0
-        substanceTags:
+        tags:
         - черный
         - хлеб
         volume: 10.0
@@ -33,7 +33,7 @@ data:
         packageDescription: целофановый пакет
         packagePrice: 0.5
         price: 180.0
-        substanceTags:
+        tags:
         - черный
         - хлеб
         volume: 10.0
