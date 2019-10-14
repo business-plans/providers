@@ -13,6 +13,8 @@ data:
         - красный
         - болгарский
         volume: 1.0
+        category: Продукты питания
+        unit: kg
       Хлеб дарницкий:
         VAT: 20
         currency: RUB
@@ -25,6 +27,8 @@ data:
         - черный
         - хлеб
         volume: 10.0
+        category: Продукты питания
+        unit: pieces
       Хлеб черный бородинский:
         VAT: 20
         currency: RUB
@@ -37,6 +41,8 @@ data:
         - черный
         - хлеб
         volume: 10.0
+        category: Продукты питания
+        unit: pieces
     currency: RUB
     city: Казань
     address: Адоратского, 9

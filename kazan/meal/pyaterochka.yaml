@@ -13,6 +13,8 @@ data:
         - красный
         - болгарский
         volume: 1.0
+        unit: kg
+        category: Продукты питания
       Перец халопеньо:
         VAT: 20
         currency: RUB
@@ -21,6 +23,8 @@ data:
         - перец
         - халопеньо
         volume: 1.0
+        unit: pieces
+        category: Продукты питания
     currency: RUB
     city: Казань
     address: Восстания, 41
