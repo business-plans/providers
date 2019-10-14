@@ -8,7 +8,6 @@ data:
         VAT: 20
         currency: RUB
         price: 250.0
-        requiredToStart: true
         substanceTags:
         - перец
         - красный
@@ -22,7 +21,6 @@ data:
         packageDescription: целофановый пакет
         packagePrice: 1.0
         price: 150.0
-        requiredToStart: true
         substanceTags:
         - черный
         - хлеб
@@ -35,7 +33,6 @@ data:
         packageDescription: целофановый пакет
         packagePrice: 0.5
         price: 180.0
-        requiredToStart: true
         substanceTags:
         - черный
         - хлеб
